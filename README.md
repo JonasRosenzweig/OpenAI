@@ -1,2 +1,3 @@
 # OpenAI
-Solving Gym environmnets
+Solving Gym environments
+
